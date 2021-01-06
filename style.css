@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(202, 202, 202);
+}
+h1, h3 {
+    color: rgb(25, 0, 255);
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+h1:hover{
+    color: rgb(49, 49, 49);
+    border: 1px solid blue;
+}
+h3:hover{
+    color: rgb(49, 49, 49);
+    border: 1px solid blue;
+}
+p{
+    color: rgb(17, 3, 3);
+    text-align: center;
+    margin: auto;
+    padding: 20px 45px 20px;
+}
+.note{
+    color: rgb(93, 0, 0) !important;
+}
