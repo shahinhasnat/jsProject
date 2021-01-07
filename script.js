@@ -50,7 +50,7 @@ for(i=0; i<len-1; i++){
       }
     
 } for(i=0; i<1; i++){
-     console.log(name[i]+'('+(name[0].length)+')');
+     console.log('My friend with The shortest name is '+ name[i]+'('+(name[0].length)+')');
 }
 
 }
